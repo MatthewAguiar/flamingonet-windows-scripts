@@ -43,4 +43,4 @@ task and point it to where `start-wsl.vbs` was deployed.
 
 A login trigger can then be added to execute the script whenever a user logs in.
 
-![alt text](image.png)
+![Task Scheduler Trigger](images/task-scheduler-trigger.png)
